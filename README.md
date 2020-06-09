@@ -9,7 +9,7 @@ The classification AUC of the models was around 96-97% in both cases. Here is a 
 ### Positive sentence
 'Rolling Stone supports the nationalization of the means of production*, democratization of the workplace*, income distribution*, food and education for the poor* and peace and prosperity*??  Who knew?\n\nWow, I should subscribe.\n\n\n*Look those things up'
 
-#### Negative sentence
+### Negative sentence
 Trump is a mentally unbalanced buffoon.\nHe's unfit for office.\nHe's the largest threat to our nation's security and Congress should exercise it's responsibility and remove him now.\nHe's a petty con man, a racist supremacist, a sexual predator and a traitor.\nWorst ever.
 
 
