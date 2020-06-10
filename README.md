@@ -15,4 +15,4 @@ Trump is a mentally unbalanced buffoon.\nHe's unfit for office.\nHe's the larges
 
 For the v100, I decided to train the model again with 2 epochs. I didnt realize much difference in AUC scores. The sentences were also convincingly classified into positive and negative.
 
-For the p100, I decided to upload the model to Kaggle to see how it compares on the leaderboard.
+For the p100, I decided to upload the model to Kaggle to see how it compares on the leaderboard. Here is the link to the notebook that was created in kaggle: https://www.kaggle.com/abhisharma1991/kernel6c5b2316b3?scriptVersionId=35852175
